@@ -1,0 +1,4 @@
+1;VW;essence;blanc;bon;touristique;4;34456.000000
+2;vw;essence;blanc;bon;touristique;4;456.000000
+3;vw;essence;blue;moyenne;touristique;4;33423.000000
+4;vw;essence;blanche;nouvelle;familiale;5;34.000000
